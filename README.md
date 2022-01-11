@@ -1,4 +1,4 @@
-![](https://i.ibb.co/h7Yqn5Y/instagram.png)
+![](https://i.ibb.co/cwFFpds/instagram.png)
 # Instagram Clone
 
 Instagram Clone build in **react-native using Expo CLI** and **firebase** with basic features like: 
@@ -10,18 +10,9 @@ Instagram Clone build in **react-native using Expo CLI** and **firebase** with b
 
 [Demo Link](https://appetize.io/embed/eqeg9tq9zzdyetv1abf108pcar?device=pixel4&osVersion=11&scale=75)
 
+
+
 ## ScreenShots
-![Login](https://i.ibb.co/nc3dGcD/login.png)
+![ScreenShots](https://i.ibb.co/Nm5wQ9T/instagram-clone.png)
 
-![SignUp](https://i.ibb.co/S7pGLQZ/signUp.png)
-
-![Forgot Password](https://i.ibb.co/0DWLDBS/forgot-pass.png)
-
-![Home Feed](https://i.ibb.co/GHR7jgq/home.png)
-
-![Feeds](https://i.ibb.co/N1SFMvm/feed.png)
-
-![Add Post](https://i.ibb.co/pdh3W8B/addPost.png)
-
-![Profile](https://i.ibb.co/8Dc7yzM/profile.png)
 
